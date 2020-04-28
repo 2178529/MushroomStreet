@@ -25,6 +25,7 @@ body {
   background: var(--color-background);
   color: var(--color-text);
   width: 100vw;
+  padding-bottom: 50px;
 }
 
 a {
